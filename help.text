@@ -1,0 +1,2 @@
+Allure生成报告
+allure generate ./result -o ./allure-report --clean
