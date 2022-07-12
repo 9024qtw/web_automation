@@ -1,0 +1,16 @@
+LoginPage:
+  - name: 首页点击登录按钮
+    type: link text
+    value: '登录'
+
+  - name: 输入账户
+    type: id
+    value: 'username'
+
+  - name: 输入密码
+    type: id
+    value: 'password'
+
+  - name: 点击登录
+    type: id
+    value: login-submit
